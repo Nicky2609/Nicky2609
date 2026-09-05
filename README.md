@@ -1,16 +1,19 @@
-## Hi there 👋
+### ¡Hola! Soy Nicol Arenas 
 
-<!--
-**Nicky2609/Nicky2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás,
+Seccional Tunja (Boyacá, Colombia).
 
-Here are some ideas to get you started:
+Me muevo entre el desarrollo full-stack, el machine learning y la
+automatización. Trabajo con Node.js, React, Java/Spring Boot y Python,
+y me interesa todo lo que tenga que ver con DevOps y aseguramiento de
+calidad de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente: proyectos académicos y personales de desarrollo web y bots.
+Aprendiendo: siempre algo nuevo, normalmente más de lo que cabe en una semana.
+Hablemos de: arquitectura de software, APIs, o por qué ese bug solo aparece en producción.
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nicky2609&theme=transparent)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicky2609&show_icons=true&theme=transparent)
