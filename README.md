@@ -15,5 +15,3 @@ Hablemos de: arquitectura de software, APIs, o por qué ese bug solo aparece en 
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nicky2609&theme=transparent)](https://git.io/streak-stats)
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicky2609)](https://github.com/Nicky2609/github-readme-stats)
